@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/lbalaramane/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn">
+  </a>
+</div>
+
 <!--
 **nutanix-japan/nutanix-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
