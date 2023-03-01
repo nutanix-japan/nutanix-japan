@@ -13,7 +13,6 @@
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=nutanix-japan&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nutanix-japan)](https://github.com/nutanix-japan/github-readme-stats&theme=dark)
 
 <!--
 **nutanix-japan/nutanix-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
