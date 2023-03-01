@@ -10,6 +10,8 @@
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate on kubernetes learning content
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=nutanix-japan&show_icons=true)
+
 <!--
 **nutanix-japan/nutanix-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
