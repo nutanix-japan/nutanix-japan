@@ -1,14 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on everything
+- 🌱 I’m currently learning everything 
+- 👯 I’m looking to collaborate on kubernetes learning content
+- 📫 How to reach me: See LinkedIn link below
+
 <div align="left">
   <a href="https://www.linkedin.com/in/lbalaramane/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="LinkedIn">
   </a>
 </div>
-
-- 🔭 I’m currently working on everything
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate on kubernetes learning content
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=nutanix-japan&show_icons=true&theme=dark)
 
