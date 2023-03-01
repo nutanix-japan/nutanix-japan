@@ -7,6 +7,8 @@
   </a>
 </div>
 
+![Metrics](https://raw.githubusercontent.com/nutanix-japan/nutanix-japan/github-metrics/github-metrics.svg)
+
 <!--
 **nutanix-japan/nutanix-japan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
